@@ -1,0 +1,7 @@
+{
+  "include": ["./src"],
+  "compilerOptions": {
+    "module": "AMD",
+    "outFile": "./bin/server.js"
+  }
+}
